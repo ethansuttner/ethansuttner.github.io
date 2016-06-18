@@ -1,3 +1,13 @@
+.jumbotron{
+  margin-bottom: 0px;
+  background-image: url("adk_high_peaks.jpg");
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
 img {
   max-width: 100%
 }
@@ -13,11 +23,12 @@ body {
   padding: 0;
 }
 
+
 #rightside{
 	float: center;
-        box sizing: border-box;
-        min-height: 150px;
-        min-width: 150px;
+  /*box sizing: border-box;*/
+  min-height: 150px;
+  min-width: 150px;
 	padding: 3%;
 }
 
